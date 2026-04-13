@@ -34,7 +34,6 @@ It allows users to explore healthy meals, customize their orders, and send them 
 - **Frontend:** React / Next.js  
 - **Styling:** Tailwind CSS  
 - **Animations:** Framer Motion  
-- **Language:** TypeScript  
 - **Deployment:** Vercel  
 
 ---
